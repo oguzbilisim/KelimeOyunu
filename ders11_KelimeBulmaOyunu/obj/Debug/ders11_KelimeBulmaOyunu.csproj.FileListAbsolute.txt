@@ -1,0 +1,45 @@
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\ders11_KelimeBulmaOyunu.exe.config
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\ders11_KelimeBulmaOyunu.exe
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\ders11_KelimeBulmaOyunu.pdb
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\obj\Debug\ders11_KelimeBulmaOyunu.csprojResolveAssemblyReference.cache
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\obj\Debug\ders11_KelimeBulmaOyunu.Form1.resources
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\obj\Debug\ders11_KelimeBulmaOyunu.Properties.Resources.resources
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\obj\Debug\ders11_KelimeBulmaOyunu.csproj.GenerateResource.Cache
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\obj\Debug\ders11_KelimeBulmaOyunu.exe
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\obj\Debug\ders11_KelimeBulmaOyunu.pdb
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\ders11_KelimeBulmaOyunu.exe.config
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\ders11_KelimeBulmaOyunu.exe
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\ders11_KelimeBulmaOyunu.pdb
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\obj\Debug\ders11_KelimeBulmaOyunu.csprojAssemblyReference.cache
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\obj\Debug\ders11_KelimeBulmaOyunu.Anasayfa.resources
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\obj\Debug\ders11_KelimeBulmaOyunu.Form1.resources
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\obj\Debug\ders11_KelimeBulmaOyunu.Properties.Resources.resources
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\obj\Debug\ders11_KelimeBulmaOyunu.csproj.GenerateResource.cache
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\obj\Debug\ders11_KelimeBulmaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\obj\Debug\ders11_KelimeBulmaOyunu.exe
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\obj\Debug\ders11_KelimeBulmaOyunu.pdb
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\MySql.Data.dll
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\obj\Debug\ders11_KelimeBulmaOyunu.csproj.CopyComplete
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\Google.Protobuf.dll
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\Renci.SshNet.dll
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\System.Buffers.dll
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\System.Memory.dll
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\Zstandard.Net.dll
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\Google.Protobuf.pdb
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\Google.Protobuf.xml
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\MySql.Data.xml
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\Renci.SshNet.xml
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\System.Buffers.xml
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\System.Memory.xml
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kaanf\Desktop\ders11_KelimeBulmaOyunu\ders11_KelimeBulmaOyunu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
